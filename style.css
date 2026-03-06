@@ -3,6 +3,11 @@
     src: url('Bitter-VariableFont_wght.ttf');
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 .header-container {
     margin: 0;
     text-align: center;
