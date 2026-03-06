@@ -40,9 +40,8 @@ body {
 }
 
 .main-container{
-    height:1200px;
-    width:100%;
-    z-index: -1;
+    height:600px;
+    width:auto;
 }
 
 .mid-first-img{
@@ -53,6 +52,7 @@ body {
     position:absolute;
     animation: slideUp 2s;
     object-fit: contain;
+    z-index: 10;
 }
 
 .headerStyle{
