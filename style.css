@@ -48,8 +48,8 @@ body {
 .mid-first-img{
     left:550px;
     top:100px;
-    width:500px;
-    height:250px;
+    width:250px;
+    height:50px;
     position:absolute;
     animation: slideUp 2s;
 }
