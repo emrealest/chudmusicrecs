@@ -48,10 +48,9 @@ body {
 .mid-first-img{
     left:550px;
     top:100px;
-    width:500px;
-    height:150px;
+    width:50px;
+    height:auto;
     position:absolute;
-    size-adjust: 50%;
     animation: slideUp 2s;
 }
 
