@@ -6,7 +6,6 @@
 body {
     background-color: black;
     min-height:100vh;
-    margin:0;
 }
 
 .header-container {
@@ -75,7 +74,7 @@ body {
     background-image:url("backing.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: fixed;
     border-radius:5px;
     opacity:0.45;
 }
