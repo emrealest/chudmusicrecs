@@ -43,13 +43,15 @@ body {
     height:100%;
     width:auto;
     z-index: -1;
+    display: flex;
+    justify-content: center;
 }
 
 .gif{
     position:absolute;
     transform: translate(-50%, -50%);
     top: 40%;
-    left: 60%;
+    left: 50%;
 }
 
 
