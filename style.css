@@ -42,8 +42,14 @@ body {
 .main-container{
     height:100%;
     width:auto;
+    z-index: -1;
 }
 
+.gif{
+    position:absolute;
+    left: 450px;
+    top: 100px;
+}
 
 
 .headerStyle{
