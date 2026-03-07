@@ -29,6 +29,13 @@ body {
     position: relative;
 }
 
+.text-type{
+    position:absolute;
+    font-size:large;
+    font-family:"typeWriter";
+    color:aliceblue;
+}
+
 .header-text1 {
     position: absolute;
     top: 45%;
@@ -47,10 +54,29 @@ body {
     justify-content: center;
 }
 
+.text-container{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+
+    padding:0 100px 400px;
+    background-color:rgba(255,255,255,0.4);
+    border-radius:5px;
+}
+
+.text-container h1{
+    margin-top:0;
+    margin-bottom:0;
+    font-family:typeWriter;
+    font-size:medium;
+    color:black;
+}
+
 .gif{
     position:absolute;
     transform: translate(-50%, -50%);
-    top: 40%;
+    top: 30%;
     left: 50%;
 }
 
